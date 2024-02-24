@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "5e6f",
+      "name": "Okky Rafa Nuggraha",
+      "age": "22",
+      "email": "okkirafa@user.com"
+    },
+    {
+      "id": "0ae8",
+      "name": "John Doe",
+      "age": "30",
+      "email": "johndoe@example.com"
+    },
+    {
+      "id": "002b",
+      "name": "Wu Yanan",
+      "age": "26",
+      "email": "yanan.wu@example.com"
+    },
+    {
+      "id": "e02e",
+      "name": "Gan An Woo",
+      "age": "76",
+      "email": "woangan@user.com"
+    }
+  ]
+}
